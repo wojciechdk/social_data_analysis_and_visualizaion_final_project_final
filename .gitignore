@@ -2,3 +2,7 @@
 
 # Project exclude paths
 /resources/data/archive/
+/.ipynb_checkpoints/
+/html/
+/results/
+/safety_copies/
